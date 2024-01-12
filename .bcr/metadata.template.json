@@ -22,6 +22,7 @@
       "name": "arijit-sen"
     }
   ],
+  "repository": ["github:arijit-sen/bazel-lib"],
   "versions": [],
   "yanked_versions": {}
 }
