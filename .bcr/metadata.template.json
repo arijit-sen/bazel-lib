@@ -2,20 +2,10 @@
   "homepage": "https://docs.aspect.dev/bazel-lib",
   "maintainers": [
     {
-      "email": "derek@aspect.dev",
-      "github": "kormide",
-      "name": "Derek"
-    },
-    {
-      "email": "jason@aspect.dev",
-      "github": "jbedard",
-      "name": "Jason"
-    },
-    {
       "email": "arijit.sen@machanirobotics.com",
       "github": "arijit-sen",
       "name": "Aspect team"
-    }
+    },
   ],
   "repository": ["github:arijit-sen/bazel-lib"],
 "versions": [],
